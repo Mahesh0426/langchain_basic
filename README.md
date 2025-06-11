@@ -1,3 +1,97 @@
+# PDF Chat Application
+
+This is a Streamlit-based application that allows you to chat with your PDF documents using LangChain and OpenAI's GPT-4. The application uses embeddings to create a semantic search over your PDF content and provides intelligent responses based on the document's context.
+
+## Prerequisites
+
+- Python 3.8 or higher
+- OpenAI API key
+
+## Installation
+
+1. Clone the repository:
+
+```bash
+git clone <your-repository-url>
+cd <repository-name>
+```
+
+2. Create a virtual environment (recommended):
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows, use: venv\Scripts\activate
+```
+
+3. Install the required dependencies:
+
+```bash
+pip install langchain
+pip install python-dotenv
+pip install -U langchain-openai
+pip install -U langchain-community pip install pypdf
+pip install langchain-chroma
+pip install streamlit
+
+pip install -r requirements.txt
+```
+
+4. Create a `.env` file in the root directory and add your OpenAI API key:
+
+```
+OPENAI_API_KEY=your-api-key-here
+```
+
+## Running the Application
+
+1. Make sure your virtual environment is activated (if you created one)
+
+2. Run the Streamlit app:
+
+```bash
+streamlit run app.py
+```
+
+3. Open your web browser and navigate to the URL shown in the terminal (typically http://localhost:8501)
+
+## Usage
+
+1. Upload a PDF file using the file uploader on the web interface
+2. Wait for the PDF to be processed (the application will create embeddings)
+3. Start asking questions about the content of your PDF in the chat interface
+4. The AI will respond based on the context from your PDF
+
+## Features
+
+- PDF document processing and chunking
+- Semantic search using OpenAI embeddings
+- Interactive chat interface
+- Chat history preservation during the session
+- Streaming responses for better user experience
+
+## Note
+
+- The application uses OpenAI's GPT-4 model for generating responses
+- The embeddings are created using OpenAI's text-embedding-3-large model
+- The application processes PDFs in chunks of 1000 characters with 200 character overlap
+- The retriever fetches the 2 most relevant chunks for each question
+
+## Requirements
+
+The application requires the following Python packages:
+
+- streamlit
+- langchain
+- langchain-openai
+- langchain-community
+- langchain-text-splitters
+- langchain-core
+- faiss-cpu
+- python-dotenv
+- openai
+
+## this is whole other project
+
 ## How to run
 
 1. conda create -n llmap python=3.13 -y
