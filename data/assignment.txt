@@ -1,0 +1,78 @@
+1. Introduction
+Information security means using certain methods and technology to stop unauthorized changes or destruction of information. Due to too much dependence on digital technology, it is now important to keep data private, managed, and available for operations and confidence in the company. These days, organization’s must contend with conditions such as external hacking, worker abuses, and system weaknesses. Improper security affects a business by leading to financial setbacks, damaging the company’s image, bringing legal consequences, and interrupting its services.
+This report aims to give clear and helpful information about information system security, using recent research, real examples from the world, and simple steps to better protect the systems and data.
+
+2. Types of IT and Computer Crimes
+
+2.1 Hacking and Cracking
+Hacking is when someone accesses a computer system or network illegally to find ways to gain private information. Ethical hackers focus on finding mistakes in security and correcting them, but crackers look for ways to corrupt systems or steal data. For example, the Equifax data breach in 2017 put the information of more than 140 million people at risk due to software security issues (Ponemon Institute, 2018).
+2.2 Types of Computer Criminals
+Many different individuals may participate in computer crime, with each using different skills, motives, and techniques. It is important to understand these categories so that you can design effective cybersecurity plans.
+Insider Threats
+When people who are part of an organization misuse their privileges to damage important data, systems, or operations, it is known as an inside threat. They may act out of personal interests, because of previous wrongs, or due to force or pressure. Such threats can cause major problems since they have in-depth knowledge and access to the company’s internal settings. For example, in 2013, Edward Snowden showed that an employee can share confidential information that causes worldwide problems (BBC News, 2014).
+Cybercriminals
+The primary goal of cybercriminals, whether they are lone individuals or members of a larger organization, is financial gain. Phishing, identity theft, Internet fraud, ransomware assaults, and illegal dark web operations are among the prohibited acts they engage in. It is important to mention that thanks to Ransomware-as-a-Service, anyone can become a cyber attacker without much training (Kaspersky, 2019).
+State-Sponsored Hackers
+They are highly trained and assisted by governments from their own countries. Examples of activities common to them are cyber spying, obtaining data illegally, and bringing down vital organization’s (F-secure.com, 2025).  These types of attackers tend to have APT affiliations and perform prolonged, hard-to-detect activity. One such instance is when, in 2020, Russian intelligence hacked U.S. federal networks through the SolarWinds hack, a much-publicized attack (Temple-Raston, 2021).
+Cyberterrorists
+Such actions are taken for political or ideological reasons to scare people, prevent some services from operating, or attack vital parts of the infrastructure. While state-sponsored hackers plan their work for their nation’s benefit, cyberterrorists instead target people and communities to create disorder or scare them. For example, terrorists may launch distributed denial-of-service (DDoS) attacks against government websites or other important parts of the country’s infrastructure.
+2.3 Computer Viruses and Destructive Codes
+Malware, or destructive code, is a type of software program to gets into and messes up computer or network systems. They can disrupt a company’s daily activities, make data less secure, and result in major threats to an organization’s money and reputation.
+Malware
+Malware refers to several kinds of harmful software, including viruses, worms, Trojans, and spyware. They are built to gain access to computers without the user’s permission and can both replicate different files and programs. An executable file can get infected by a virus, but a worm reproduces and transmits over computer networks by itself. Trojans look like normal applications but in fact hide harmful features. Spyware is capable of sneakily gathering information about people as well as their devices to steal or watch them without being noticed (Malwarebytes, 2020).
+Ransomware
+Ransomware is a computer virus designed to block your data or system files and make you pay to regain access to them. Such attacks may disturb tasks in companies, mainly in the healthcare and financial sectors. An example of such an infection is WannaCry, which attacked all kinds of exposed networks worldwide in 2017 and led to heavy financial losses. (Symantec, 2018).
+
+Spyware
+Spyware gathers information on what users do and what they type online without their knowledge. The software is usually installed on a user’s computer unknowingly by system owners or by clicking on untrustworthy websites. Spyware is designed to run invisibly and is often used for cases of identity theft or to carry out unapproved observation. Certain advanced types of spyware can remotely control microphones or cameras, without the owner knowing about it (Fortinet, 2024).
+
+Rootkits
+With rootkits, one can gain unauthorized access to a computer system with highly advanced powers. Their primary purpose is to protect other types of dangerous software and help keep control of a device for a prolonged period. Rootkits are hard to detect and get rid of since they can hide deep within the operating system (Fortinet, 2024).
+
+2.4 Cyber Harassment, Cyberstalking, and Cyberbullying
+Getting harassed online is a common experience that can be very upsetting for those involved. We can see this behavior showing up on social media, in email, and during real-time conversations. (Kizza, 2023).
+Cyber Harassment
+The main danger of cyber harassment comes from technology, which is used on many websites and apps. Such behavior includes doing the same actions again and again to hurt, scare, embarrass, and silence those caught in the situation. Many people who experience such harassment usually feel nervous, on edge, and experience worsening mental health.
+Cyberstalking
+Cyberstalking means someone keeps watching you on the internet or sending you unwanted messages for a long time, often together with real-life following or watching. Those responsible may watch what the victims do online, strike up conversations pretending to be them, or send the victims upsetting and nasty messages over and over. The goal is usually to make someone feel afraid, try to control or scare them.
+Cyberbullying
+Cyberbullying is most common among younger individuals, who experience continued harassment meant to humiliate or hurt them. Sometimes, it includes being insulted, ignored in online groups, or having embarrassing content about them online. Being the victim of cyberbullying can result in depression, academic difficulties, and, for some, self-harm.
+
+
+2.5 Software Piracy and Cybersquatting
+As digital items become more important and valuable, piracy and cybersquatting remain serious problems for both intellectual property and the reputation of brands (Khan, 2013).
+Software Piracy
+Software piracy is the act of using, copying, or distributing software that is under copyright protection without proper licensing or permission from the actual holder. These actions might include using a software package on different devices at the same time, downloading it illegally, or selling sham software. Pirating software powers away at developers’ income, curtails new innovations, and may threaten the safety of computer systems from corrupted or unchecked programs.
+Cybersquatting
+Cybersquatting describes the practice of people or businesses registering and using domain names that are close to well-known brands or trademarks in ways that trick consumers or help them make money from sales. Using well-known names like this may cause users confusion and can damage a firm’s reputation, along with the risk of facing legal problems.
+
+3. Managing Information System Security
+
+3.1 Assessing Risks
+Proper information system security requires identifying what can harm the system and judging both the probability and the seriousness of those threats. Managers should use scanners and penetration tests to identify the risks and problems in their systems from time to time. Managers can use these to comprehend risks, plan ways to mitigate them, and make wise spending decisions. Organizations must adhere to GDPR, HIPAA, and PCI-DSS regulations to ensure their security and compliance. The NIST Risk Management Framework outlines simple steps to help control and reduce cybersecurity risks (NIST, 2020).
+3.2 Developing a Security Strategy
+Having a well-made security strategy ensures your digital assets are secure and you are resistant to cyber threats. This calls for using firewalls, encryption, and MFA to ensure that data is not accessed by those who should not have access. Organizations need to use acknowledged frameworks like the NIST Cybersecurity Framework and ISO/IEC 27001 to help them with risk management and improve overall security over time (NIST, 2020).
+3.3 Implementing Controls and Training
+Employees should be educated to avoid being caught by deceitful phishing attacks. By training often, they gain the ability to identify risks and actions to use in response. When companies have a plan for emergencies, it becomes easier for them to recover after a security breach. Verizon reveals that errors made by humans play a large role in most data breaches (Verizon, 2025).
+
+3.4 Monitoring Security
+Ongoing surveillance is important because it helps spot security problems quickly and find a solution as soon as possible. Security Information and Event Management (SIEM) systems collect and look at log data to help find anything that shouldn’t be happening. Routine audits and regular security checks help strengthen security and make sure the company follows all the rules. 
+Artificial intelligence and machine learning are now used more often to help improve how security monitoring is done. These advancements help sort through lots of data to look for anything unusual, try to predict attacks, and act automatically, all of which make it faster and more accurate to stop threats.
+
+4. Size and Growth of the Information Security Market
+
+The information security industry has grown considerably over the last ten years. According to Statista, the global cybersecurity market is set to reach US$202.98 billion by 2025, and Security Services will be the biggest part of it, worth US$103.09 billion. The market is expected to see growth at a rate of 7.58% each year from 2025 to 2029, reaching a value of US$271.91 billion by 2029. Higher digital use, more cybersecurity threats, new rules from regulators, and consumers being more informed all contribute to this (Statista ,2024).
+The main reason behind the market’s growth is that governments and companies have made large investments in security for networks, computers, and data. Cisco, Palo Alto Networks, Fortinet, IBM, and CrowdStrike are among the companies that support the market the most. Firms that use AI to strengthen their security are experiencing development.
+The use of Zero Trust architecture, AI and machine learning, and blockchain for secure transactions is one of the new trends. Because working remotely is becoming standard, many organizations are placing greater value on safeguarding their information and securely connecting to the cloud.
+5. Conclusion and Recommendations
+In Conclusion, information system security cannot be achieved with just technology but demands the attention of people and organizations as well. When an organization follows the best practices and learns about upcoming threats, it can keep its digital resources safe and operations ongoing.
+The advancement of information technologies has made it harder for people to keep things safe in their computer systems. The areas covered here include malware, misuse of access, internet bullying, and falsely resembling important websites. we should take care of these threats before they happen by keeping risks in mind, coming up with clear rules, ensuring the devices are updated, training staff, and constantly being aware of any issues.
+
+Recommendations
+
+●	Adopt a Zero Trust Security Model: Take it as given that you can’t assume anything on the network is trusted automatically.
+●	Invest in Employee Awareness Programs: Regular training can make it much less likely for staff to make careless mistakes that put the company at risk.
+●	Enhance Incident Response Planning: Create and test the plans and teams that aid in prompt incident response.
+●	Leverage AI and Automation: Utilize machine learning to detect risks in real time and take prompt action.
+●	Ensure Regulatory Compliance: Verify any GDPR, HIPAA, and APP regulations and abide by them.
+
