@@ -80,3 +80,6 @@ for chunk in chain.stream("give me the summary of this lecture?"):
     print(chunk, end="", flush=True)
 print()  
 
+
+# run in loop
+

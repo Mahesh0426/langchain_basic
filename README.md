@@ -111,6 +111,7 @@ The application requires the following Python packages:
 8. pip install -U langchain-community
 9. pip install pypdf
 10. pip install langchain-chroma
+11. pip install langserve==0.0.7
 
 ## difference betwen venv and conda
 
