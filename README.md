@@ -12,8 +12,7 @@ This is a Streamlit-based application that allows you to chat with your PDF docu
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/Mahesh0426/langchain_basic/blob/main/app.py
 ```
 
 2. Create a virtual environment (recommended):
